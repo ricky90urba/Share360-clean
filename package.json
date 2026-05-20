@@ -13,3 +13,4 @@
     "build": "parcel build public/index.html"
   } 
 }
+ 
