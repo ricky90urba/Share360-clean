@@ -1,0 +1,9 @@
+{
+  "name": "Share360",
+  "short_name": "Share360",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F9FB",
+  "theme_color": "#00D1C1",
+  "icons": []
+}
